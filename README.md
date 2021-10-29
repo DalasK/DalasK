@@ -9,6 +9,7 @@ I'm Ulysse (also DalasK or Dall4sK/Karnage777 or SWAQC) and I'm going to post a 
 My Discord (if you have questions): DalasK#9005
 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DalasK)](https://github.com/DalasK/github-readme-stats)
 
 
 
@@ -40,4 +41,3 @@ My Discord (if you have questions): DalasK#9005
 
 
 
-UWU
